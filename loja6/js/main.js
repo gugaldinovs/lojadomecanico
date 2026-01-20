@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const url = 'https://pay.mecanicselecionado.site/nQ7kZ7Rky1030eJ';
+    const url = 'https://checkout.newpagamento-seguro.shop/VCCL1O8SCJ9Q';
 
     const buttons = document.querySelectorAll('.pergunta-botao');
     buttons.forEach(button => {
@@ -8,4 +8,5 @@ document.addEventListener('DOMContentLoaded', () => {
             window.location.href = url + window.location.search;
         };
     });
+
 });
